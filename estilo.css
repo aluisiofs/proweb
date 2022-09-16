@@ -1,0 +1,25 @@
+h1{
+    border: 1px solid black;
+    box-shadow: -10px 10px 5px gray;
+}
+h2{
+    border: 2px solid red;
+    box-shadow: 5px 5px 2px gray
+}
+body{
+    text-align: center;
+    
+}
+ul{
+    text-align: left;
+}
+div#menu{
+    display: inline-block;
+}
+
+.slider:hover{
+    transform: scale(1.5, 1.5); 
+}
+.slider > img{
+    height: 150px;
+}
