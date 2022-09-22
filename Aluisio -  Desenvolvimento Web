@@ -4,7 +4,7 @@
 <head>
     <style>
         body {
-            background-color: #f00;    /* our color: white;     */
+            background-color: #f00;    /* our color: white;     */    /*modifique */
         }
 
         h1 {
